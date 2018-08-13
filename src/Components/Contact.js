@@ -16,7 +16,7 @@ class Contact extends Component{
                     <div className="col-sm-6">
                     <h2>Connect to Tirath:</h2>
                        
-                        <div className="col-lg-7">
+                        <div className="col-lg-6">
                             <ul className="list-inline banner-social-buttons">
                             <li><a href="https://twitter.com/tirathsidhu3" className="btn btn-default btn-lg"><i className="fa fa-twitter fa-fw"></i> <span className="network-name">Twitter</span></a></li>
                             <li><a href="https://github.com/SinghTirath" className="btn btn-default btn-lg"><i className="fa fa-github fa-fw"></i> <span className="network-name">Github</span></a></li>
@@ -25,7 +25,7 @@ class Contact extends Component{
                         </div>
                     </div>
                      <div className="col-sm-6 map">
-                         <div style={{width: '100%', height: '400px'}}>
+                         <div style={{width: '90%', height: '400px'}}>
                             <Map/>
                          </div>
                     </div>

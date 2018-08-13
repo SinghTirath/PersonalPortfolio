@@ -17,7 +17,7 @@ class Footer extends Component{
                         <li className="footer-menu-divider">&sdot;</li>
                         <li><a href="#contact">Contact</a></li>
                         </ul>
-                        <p className="copyright text-muted small">Copyright &copy; Thomas Vaeth 2015. All Rights Reserved</p>
+                        <p className="copyright text-muted small">Copyright &copy; Tirath Singh. 2018</p>
                     </div>
                     </div>
                 </div>
